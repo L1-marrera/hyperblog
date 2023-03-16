@@ -1,3 +1,5 @@
 Este es mi primer intento de trabajar con Git.
 
 Probando los primeros cambios dentro de Git.
+
+Probando cambios sin mensaje de commit
