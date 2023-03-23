@@ -3,6 +3,16 @@ body {
     font-family: Courier, Helvetica, sans-serif;
 }
 
+#cabecera {
+    background: #33A;
+    color: white;
+    font-weight: bold;
+    margin: 0 auto;
+    padding: 0.5em 1em;
+    width: 70%;
+    text-align: left;
+}
+
 #container {
     width: 70%;
     padding: 1em;
