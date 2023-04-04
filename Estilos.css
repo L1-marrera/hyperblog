@@ -1,16 +1,11 @@
 body {
+    background: #1e1f24;
+    color: #333;
+    font-size: 20px;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-}
-
-#cabecera {
-    background: green;
-    color: white;
-    font-weight: bold;
-    margin: 0 auto;
-    padding: 0.5em 1em;
-    width: 70%;
-    text-align: left;
+    margin: 0;
+    padding: 0;
 }
 
 #container {
@@ -19,4 +14,29 @@ body {
     text-align: left;
     border: 1px solid olive;
     margin: 0 auto;
+}
+
+#cabecera {
+    background: #37488b;
+    color: white;
+    font-weight: bold;
+    margin: 0 auto;
+    padding: 0.5em 1em;
+    text-align: left;
+}
+
+#cabecera #logo {
+    width: 20px;
+    vertical-align: middle;
+}
+
+#cabecera #tagline {
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.9em;
+}
+
+#post {
+    background: white;
+    padding: 1em;
 }
